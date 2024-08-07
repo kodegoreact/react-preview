@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-preview/static/css/main.ff02f4b5.css",
+    "main.js": "/react-preview/static/js/main.027f5c50.js",
+    "index.html": "/react-preview/index.html",
+    "main.ff02f4b5.css.map": "/react-preview/static/css/main.ff02f4b5.css.map",
+    "main.027f5c50.js.map": "/react-preview/static/js/main.027f5c50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.027f5c50.js"
+  ]
+}
